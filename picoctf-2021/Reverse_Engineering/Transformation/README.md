@@ -9,7 +9,7 @@ I wonder what this really is... [enc](https://mercury.picoctf.net/static/a757282
 ```
 
 ### Steps
-1. Download file *env*
+1. Download file *enc*
 ```
 wget https://mercury.picoctf.net/static/a757282979af14ab5ed74f0ed5e2ca95/enc
 ```
